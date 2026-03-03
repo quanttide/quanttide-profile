@@ -1,0 +1,12 @@
+[submodule "entity/company"]
+	path = entity/company
+	url = https://github.com/quanttide/quanttide-profile-of-business-entity.git
+[submodule "entity/founder"]
+	path = entity/founder
+	url = https://github.com/quanttide/quanttide-profile-of-founder.git
+[submodule "domain/asset"]
+	path = domain/asset
+	url = https://github.com/quanttide/quanttide-profile-of-digital-assets.git
+[submodule "domain/stdn"]
+	path = domain/stdn
+	url = https://github.com/quanttide/quanttide-profile-of-standardization.git
