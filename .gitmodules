@@ -13,3 +13,6 @@
 [submodule "domain/stdn"]
 	path = domain/stdn
 	url = https://github.com/quanttide/quanttide-profile-of-standardization.git
+[submodule "domain/knowl"]
+	path = domain/knowl
+	url = https://github.com/quanttide/quanttide-profile-of-knowledge-engineering.git
