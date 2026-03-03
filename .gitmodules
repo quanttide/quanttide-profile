@@ -16,3 +16,6 @@
 [submodule "domain/knowl"]
 	path = domain/knowl
 	url = https://github.com/quanttide/quanttide-profile-of-knowledge-engineering.git
+[submodule "domain/write"]
+	path = domain/write
+	url = https://github.com/quanttide/quanttide-profile-of-narrative-engineering.git
