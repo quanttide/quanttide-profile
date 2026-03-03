@@ -1,7 +1,0 @@
-# https://jupyterbook.org/en/stable/customize/config.html
-name: quanttide-profile-of-readme
-title: 量潮公开档案
-author: 量潮科技
-description: 公开各项基本信息
-# Jupyter Book Config
-only_build_toc_files: true
