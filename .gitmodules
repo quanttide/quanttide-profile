@@ -1,3 +1,6 @@
+[submodule "domain/innov"]
+	path = domain/innov
+	url = https://github.com/quanttide/quanttide-profile-of-innovation-management.git
 [submodule "entity/company"]
 	path = entity/company
 	url = https://github.com/quanttide/quanttide-profile-of-business-entity.git
