@@ -2,6 +2,19 @@
 
 ## [Unreleased]
 
+## [0.0.2] - 2026-03-04
+
+### 变更
+
+更新子模块至最新版本。
+
+- domain/asset: v0.0.2 - 新增 profile 分类目录
+- domain/stdn: v0.0.2 - 新增 stdn 领域文档
+- domain/think: v0.0.2 - 新增 asset 思考目录
+- domain/write: v0.0.2 - 新增 devops 手册目录
+- entity/company: v0.1.1 - 重构 delib 和 execute 目录结构
+- entity/founder: v0.2.1 - 文档结构调整与内容润色
+
 ## [0.0.1] - 2026-03-03
 
 ### 新增
