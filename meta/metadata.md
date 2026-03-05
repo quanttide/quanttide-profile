@@ -33,7 +33,7 @@
 
 ## 领域档案
 
-- domain/asset：数字资产 v0.0.3 - 元数据迁移至主仓库统一管理
+- domain/asset：数字资产 v0.0.4 - 新增 AGENTS.md，重命名 CODEBUDDY.md
 - domain/innov：创新管理 v0.0.1
 - domain/knowl：知识工程 v0.0.1
 - domain/stdn：标准化 v0.0.2 - 新增 stdn 领域文档
