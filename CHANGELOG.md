@@ -2,6 +2,19 @@
 
 ## [Unreleased]
 
+## [0.0.5] - 2026-03-05
+
+### 变更
+
+- 更新子模块至最新版本
+  - domain/asset: v0.0.4 - 新增 AGENTS.md
+  - domain/innov: v0.0.2 - 重构目录结构
+  - domain/stdn: v0.0.3 - 新增执行领域文档
+  - entity/company: v0.1.3 - 新增 mr/share 许可分享文档
+  - entity/founder: v0.2.2 - 重构 innov 目录结构
+- 更新 AGENTS.md：发布前拉取子模块更新
+- 新增 meta/metadata.md：统一管理各档案元数据
+
 ## [0.0.4] - 2026-03-04
 
 ### 变更

@@ -2,13 +2,14 @@
 
 ## 量潮工作档案
 
-量潮工作档案已发布 0.0.4 版本
+量潮工作档案已发布 0.0.5 版本
 链接：GitHub - quanttide/quanttide-profile: 量潮工作档案
 要点：
 - 父仓库采用 Git 子模块结构管理多个独立文档模块
 - domain/ 模块：领域知识模块（asset, innov, knowl, stdn, think, write）
 - entity/ 模块：实体档案模块（company, founder）
 - 新增 AGENTS.md：Agent 工作指南
+- 本轮更新：更新多个子模块版本（asset v0.0.4, innov v0.0.2, stdn v0.0.3, company v0.1.3, founder v0.2.2）
 
 ## 主体档案
 
