@@ -223,10 +223,14 @@ git submodule update --init
 
 ### 发布新版本
 
-1. **检查 CHANGELOG**：查看已有版本记录格式
-2. **更新 CHANGELOG**：在 `[Unreleased]` 下新增版本块
-3. **提交推送**：确保所有变更已推送到远程
-4. **创建 Release**：
+1. **拉取子模块更新**：各子模块可能独立发布了新版本
+   ```bash
+   git submodule update --init --remote
+   ```
+2. **检查 CHANGELOG**：查看已有版本记录格式
+3. **更新 CHANGELOG**：在 `[Unreleased]` 下新增版本块
+4. **提交推送**：确保所有变更已推送到远程
+5. **创建 Release**：
    - 草稿发布：`gh release create <version> --title "v<version>" --notes-file CHANGELOG.md --draft`
    - 正式发布：`gh release edit <tag> --draft=false`
 
