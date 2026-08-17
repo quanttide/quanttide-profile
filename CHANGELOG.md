@@ -16,6 +16,11 @@
 - 注册子模块：`default/company`（法人主体档案）
 - 注册子模块：`domains/agent`、`domains/course`、`domains/customer`、`domains/data`、`domains/delib`、`domains/econ`、`domains/execute`、`domains/health`、`domains/human`、`domains/innov`、`domains/product`（领域档案）
 
+### 文档
+
+- 新增 `AGENTS.md`（Agent 工作指南：项目定位、工作原则、子模块管理、AI 执行指引）
+- 更新 `README.md`（补充主体轴定位、AGENTS 入口、档案分层关系）
+
 ## [0.0.5] - 2026-03-05
 
 ### 变更

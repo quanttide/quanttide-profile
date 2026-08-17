@@ -4,6 +4,8 @@
 
 量潮工作档案（quanttide-profile）是量潮知识管理体系中的**档案聚合容器**——按领域聚合各业务的工作档案子仓库（git submodule）。每个子仓库独立维护，本仓库只追踪引用。
 
+在量潮"正交分解"中，本仓库对应**主体轴（Who it is）**：`default/` 聚合法人主体档案，`domains/` 聚合各领域工作档案，回答"我们是谁、各领域如何运作"。
+
 ## 仓库结构
 
 ```
@@ -22,6 +24,7 @@ quanttide-profile/
 │   ├── innov            → 创新管理档案（quanttide-profile-of-innovation-management）
 │   └── product          → 产品研发档案（quanttide-profile-of-product-development）
 ├── README.md            → 本文件
+├── AGENTS.md            → Agent 工作指南
 ├── CHANGELOG.md         → 版本变更记录
 └── LICENSE              → 许可证
 ```
@@ -36,3 +39,4 @@ quanttide-profile/
 
 - 档案与日志同源：`assets/quanttide-journal`（工作日志聚合）
 - 档案与意图互补：`assets/quanttide-intention`（工作意图聚合）
+- 分层关系：journal（事实）→ intention（意图）→ profile（档案/叙事），更新方向单向
