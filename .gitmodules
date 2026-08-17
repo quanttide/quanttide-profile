@@ -1,0 +1,36 @@
+[submodule "default/company"]
+	path = default/company
+	url = https://github.com/quanttide/quanttide-profile-of-business-entity.git
+[submodule "domains/agent"]
+	path = domains/agent
+	url = https://github.com/quanttide/quanttide-profile-of-agent-engineering.git
+[submodule "domains/course"]
+	path = domains/course
+	url = https://github.com/quanttide/quanttide-profile-of-course-development.git
+[submodule "domains/customer"]
+	path = domains/customer
+	url = https://github.com/quanttide/quanttide-profile-of-customer-relations.git
+[submodule "domains/data"]
+	path = domains/data
+	url = https://github.com/quanttide/quanttide-profile-of-data-engineering.git
+[submodule "domains/delib"]
+	path = domains/delib
+	url = https://github.com/quanttide/quanttide-profile-of-deliberation-management.git
+[submodule "domains/econ"]
+	path = domains/econ
+	url = https://github.com/quanttide/quanttide-profile-of-economic-modeling.git
+[submodule "domains/execute"]
+	path = domains/execute
+	url = https://github.com/quanttide/quanttide-profile-of-execution-management.git
+[submodule "domains/health"]
+	path = domains/health
+	url = https://github.com/quanttide/quanttide-profile-of-health-management.git
+[submodule "domains/human"]
+	path = domains/human
+	url = https://github.com/quanttide/quanttide-profile-of-human-resources.git
+[submodule "domains/innov"]
+	path = domains/innov
+	url = https://github.com/quanttide/quanttide-profile-of-innovation-management.git
+[submodule "domains/product"]
+	path = domains/product
+	url = https://github.com/quanttide/quanttide-profile-of-product-development.git
