@@ -15,6 +15,7 @@
 - 重新初始化工作档案聚合容器（清理过期文件后重建）
 - 注册子模块：`default/company`（法人主体档案）
 - 注册子模块：`domains/agent`、`domains/course`、`domains/customer`、`domains/data`、`domains/delib`、`domains/econ`、`domains/execute`、`domains/health`、`domains/human`、`domains/innov`、`domains/product`（领域档案）
+- 补充注册子模块：`domains/alliance`、`domains/asset`、`domains/brands`、`domains/business`、`domains/cloud-computing`、`domains/collaboration`、`domains/commerce`、`domains/connect`、`domains/crowd`、`domains/customers`、`domains/design`、`domains/devops`、`domains/entrep`、`domains/finance`、`domains/knowl`、`domains/legal-affairs`、`domains/media`、`domains/open-source`、`domains/research-assistants`、`domains/standardization`、`domains/strategies`、`domains/strategy`、`domains/think`、`domains/write`（24 个档案仓库，全量对齐 36 个）
 
 ### 文档
 

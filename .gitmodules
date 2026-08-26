@@ -34,3 +34,75 @@
 [submodule "domains/product"]
 	path = domains/product
 	url = https://github.com/quanttide/quanttide-profile-of-product-development.git
+[submodule "domains/alliance"]
+	path = domains/alliance
+	url = https://github.com/quanttide/quanttide-profile-of-alliance.git
+[submodule "domains/asset"]
+	path = domains/asset
+	url = https://github.com/quanttide/quanttide-profile-of-asset-management.git
+[submodule "domains/brands"]
+	path = domains/brands
+	url = https://github.com/quanttide/quanttide-profile-of-brands.git
+[submodule "domains/business"]
+	path = domains/business
+	url = https://github.com/quanttide/quanttide-profile-of-business-development.git
+[submodule "domains/cloud-computing"]
+	path = domains/cloud-computing
+	url = https://github.com/quanttide/quanttide-profile-of-cloud-computing.git
+[submodule "domains/collaboration"]
+	path = domains/collaboration
+	url = https://github.com/quanttide/quanttide-profile-of-collaboration.git
+[submodule "domains/commerce"]
+	path = domains/commerce
+	url = https://github.com/quanttide/quanttide-profile-of-commerce.git
+[submodule "domains/connect"]
+	path = domains/connect
+	url = https://github.com/quanttide/quanttide-profile-of-communication.git
+[submodule "domains/crowd"]
+	path = domains/crowd
+	url = https://github.com/quanttide/quanttide-profile-of-crowd-sourcing.git
+[submodule "domains/customers"]
+	path = domains/customers
+	url = https://github.com/quanttide/quanttide-profile-of-customers.git
+[submodule "domains/design"]
+	path = domains/design
+	url = https://github.com/quanttide/quanttide-profile-of-interaction-design.git
+[submodule "domains/devops"]
+	path = domains/devops
+	url = https://github.com/quanttide/quanttide-profile-of-devops.git
+[submodule "domains/entrep"]
+	path = domains/entrep
+	url = https://github.com/quanttide/quanttide-profile-of-entrepreneurship.git
+[submodule "domains/finance"]
+	path = domains/finance
+	url = https://github.com/quanttide/quanttide-profile-of-finance-management.git
+[submodule "domains/knowl"]
+	path = domains/knowl
+	url = https://github.com/quanttide/quanttide-profile-of-knowledge-engineering.git
+[submodule "domains/legal-affairs"]
+	path = domains/legal-affairs
+	url = https://github.com/quanttide/quanttide-profile-of-legal-affairs.git
+[submodule "domains/media"]
+	path = domains/media
+	url = https://github.com/quanttide/quanttide-profile-of-social-media.git
+[submodule "domains/open-source"]
+	path = domains/open-source
+	url = https://github.com/quanttide/quanttide-profile-of-open-source.git
+[submodule "domains/research-assistants"]
+	path = domains/research-assistants
+	url = https://github.com/quanttide/quanttide-profile-of-research-assistants.git
+[submodule "domains/standardization"]
+	path = domains/standardization
+	url = https://github.com/quanttide/quanttide-profile-of-standardization.git
+[submodule "domains/strategies"]
+	path = domains/strategies
+	url = https://github.com/quanttide/quanttide-profile-of-strategies.git
+[submodule "domains/strategy"]
+	path = domains/strategy
+	url = https://github.com/quanttide/quanttide-profile-of-strategy-management.git
+[submodule "domains/think"]
+	path = domains/think
+	url = https://github.com/quanttide/quanttide-profile-of-cognitive-engineering.git
+[submodule "domains/write"]
+	path = domains/write
+	url = https://github.com/quanttide/quanttide-profile-of-narrative-engineering.git
