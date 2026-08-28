@@ -57,7 +57,7 @@
 	url = https://github.com/quanttide/quanttide-profile-of-commerce.git
 [submodule "domains/connect"]
 	path = domains/connect
-	url = https://github.com/quanttide/quanttide-profile-of-communication.git
+	url = https://github.com/quanttide/quanttide-profile-of-communication-management.git
 [submodule "domains/crowd"]
 	path = domains/crowd
 	url = https://github.com/quanttide/quanttide-profile-of-crowd-sourcing.git
