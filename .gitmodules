@@ -34,9 +34,6 @@
 [submodule "domains/product"]
 	path = domains/product
 	url = https://github.com/quanttide/quanttide-profile-of-product-development.git
-[submodule "domains/alliance"]
-	path = domains/alliance
-	url = https://github.com/quanttide/quanttide-profile-of-alliance.git
 [submodule "domains/asset"]
 	path = domains/asset
 	url = https://github.com/quanttide/quanttide-profile-of-asset-management.git
