@@ -76,9 +76,6 @@
 [submodule "domains/knowl"]
 	path = domains/knowl
 	url = https://github.com/quanttide/quanttide-profile-of-knowledge-engineering.git
-[submodule "domains/legal-affairs"]
-	path = domains/legal-affairs
-	url = https://github.com/quanttide/quanttide-profile-of-legal-affairs.git
 [submodule "domains/media"]
 	path = domains/media
 	url = https://github.com/quanttide/quanttide-profile-of-social-media.git
