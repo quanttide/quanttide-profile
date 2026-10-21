@@ -62,5 +62,5 @@ quanttide-profile/
 ## 关联
 
 - 档案与日志同源：`assets/quanttide-journal`（工作日志聚合）
-- 档案与意图互补：`assets/quanttide-intention`（工作意图聚合）
+- 档案与意图互补：`assets/quanttide-intention`（愿景聚合）
 - 分层关系：journal（事实）→ intention（意图）→ profile（档案/叙事），更新方向单向
