@@ -10,6 +10,10 @@
 
 ## [Unreleased]
 
+### 变更
+
+- 子模块改名：`domains/cloud-computing` → `domains/infrastructure`（基础设施档案），仓库 `quanttide-profile-of-cloud-computing` → `quanttide-profile-of-infrastructure`，README 目录树同步
+
 ### 新增
 
 - 重新初始化工作档案聚合容器（清理过期文件后重建）

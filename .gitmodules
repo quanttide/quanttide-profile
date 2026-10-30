@@ -43,9 +43,9 @@
 [submodule "domains/business"]
 	path = domains/business
 	url = https://github.com/quanttide/quanttide-profile-of-business-development.git
-[submodule "domains/cloud-computing"]
-	path = domains/cloud-computing
-	url = https://github.com/quanttide/quanttide-profile-of-cloud-computing.git
+[submodule "domains/infrastructure"]
+	path = domains/infrastructure
+	url = https://github.com/quanttide/quanttide-profile-of-infrastructure.git
 [submodule "domains/collaboration"]
 	path = domains/collaboration
 	url = https://github.com/quanttide/quanttide-profile-of-collaboration.git
