@@ -10,6 +10,8 @@
 
 ## [Unreleased]
 
+- 注册营销管理档案：`domains/market` → quanttide-profile-of-market-management
+
 ### 变更
 
 - 子模块改名：`domains/cloud-computing` → `domains/infrastructure`（基础设施档案），仓库 `quanttide-profile-of-cloud-computing` → `quanttide-profile-of-infrastructure`，README 目录树同步

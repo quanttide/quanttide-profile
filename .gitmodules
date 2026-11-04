@@ -100,3 +100,6 @@
 [submodule "domains/write"]
 	path = domains/write
 	url = https://github.com/quanttide/quanttide-profile-of-narrative-engineering.git
+[submodule "domains/market"]
+	path = domains/market
+	url = https://github.com/quanttide/quanttide-profile-of-market-management.git

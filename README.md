@@ -39,6 +39,7 @@ quanttide-profile/
 │   ├── knowl            → 知识工程档案（quanttide-profile-of-knowledge-engineering）
 │   ├── legal-affairs    → 法务档案（quanttide-profile-of-legal-affairs）
 │   ├── media            → 新媒体档案（quanttide-profile-of-social-media）
+│   ├── market           → 营销管理档案（quanttide-profile-of-market-management）
 │   ├── open-source      → 开源档案（quanttide-profile-of-open-source）
 │   ├── product          → 产品研发档案（quanttide-profile-of-product-development）
 │   ├── research-assistants → 助研档案（quanttide-profile-of-research-assistants）
