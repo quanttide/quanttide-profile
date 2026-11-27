@@ -103,3 +103,6 @@
 [submodule "domains/market"]
 	path = domains/market
 	url = https://github.com/quanttide/quanttide-profile-of-market-management.git
+[submodule "domains/game"]
+	path = domains/game
+	url = https://github.com/quanttide/quanttide-profile-of-game-development.git

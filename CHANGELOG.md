@@ -10,6 +10,7 @@
 
 ## [Unreleased]
 
+- 注册游戏研发档案：`domains/game` → quanttide-profile-of-game-development（首收 qtgame-tycoon 的 TapTap 上架资料），README 目录树同步
 - 注册营销管理档案：`domains/market` → quanttide-profile-of-market-management
 
 ### 变更

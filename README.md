@@ -33,6 +33,7 @@ quanttide-profile/
 │   ├── entrep           → 创业档案（quanttide-profile-of-entrepreneurship）
 │   ├── execute          → 执行管理档案（quanttide-profile-of-execution-management）
 │   ├── finance          → 财务管理档案（quanttide-profile-of-finance-management）
+│   ├── game             → 游戏研发档案（quanttide-profile-of-game-development）
 │   ├── health           → 健康管理档案（quanttide-profile-of-health-management）
 │   ├── human            → 人力资源档案（quanttide-profile-of-human-resources）
 │   ├── innov            → 创新管理档案（quanttide-profile-of-innovation-management）
